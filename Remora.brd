@@ -29,11 +29,11 @@
 <layer number="19" name="Unrouted" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="3" fill="1" visible="no" active="yes"/>
+<layer number="22" name="bPlace" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="3" fill="1" visible="no" active="yes"/>
+<layer number="24" name="bOrigins" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="3" fill="1" visible="no" active="yes"/>
+<layer number="26" name="bNames" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="3" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
@@ -219,7 +219,7 @@
 <text x="58.4465" y="43.24175" size="0.889" layer="26" font="vector" ratio="15" rot="MR270">SCL</text>
 <text x="75.9195" y="32.228" size="1.27" layer="25" font="vector" ratio="15" rot="R270">I1</text>
 <text x="75.9195" y="37.308" size="1.27" layer="25" font="vector" ratio="15" rot="R270">I2</text>
-<text x="1.5505" y="26.573" size="1.27" layer="26" font="vector" ratio="18" rot="MR270">Phase</text>
+<text x="1.5505" y="25.303" size="1.27" layer="26" font="vector" ratio="18" rot="MR270">Ph</text>
 <text x="86.0055" y="32.288" size="1.27" layer="26" font="vector" ratio="15" rot="MR270">I1</text>
 <text x="86.0055" y="37.368" size="1.27" layer="26" font="vector" ratio="15" rot="MR270">I2</text>
 <text x="1.4235" y="60.863" size="1.27" layer="26" font="vector" ratio="18" rot="MR270">FP1</text>
@@ -273,7 +273,6 @@
 <text x="58.5805" y="58.41475" size="0.889" layer="26" font="vector" ratio="15" rot="MR180">D4</text>
 <text x="64.07325" y="28.37925" size="1.016" layer="25" font="vector" ratio="15" rot="R180">GPB0</text>
 <text x="57.2505" y="26.35425" size="0.889" layer="26" font="vector" ratio="15" rot="MR90">GPB0</text>
-<text x="1.5505" y="9.936" size="1.27" layer="26" font="vector" ratio="18" rot="MR270">NF</text>
 <text x="1.5505" y="20.096" size="1.27" layer="26" font="vector" ratio="18" rot="MR270">NO</text>
 <text x="66.93425" y="64.70825" size="0.889" layer="25" font="vector" ratio="15" rot="R270">GND</text>
 <text x="71.25225" y="61.565" size="0.889" layer="26" font="vector" ratio="15" rot="MR90">GND</text>
@@ -298,7 +297,6 @@ NodeMCU R23 et R24</text>
 <text x="62.0765" y="20.29" size="0.889" layer="26" font="vector" ratio="15" rot="MR270">VIN</text>
 <text x="61.9495" y="8.352" size="0.889" layer="26" font="vector" ratio="15" rot="MR270">3V3</text>
 <text x="54.9645" y="8.352" size="0.889" layer="26" font="vector" ratio="15" rot="MR270">GND</text>
-<wire x1="0" y1="2.54" x2="0" y2="64.135" width="0.0254" layer="20"/>
 <wire x1="2.54" y1="66.675" x2="80.645" y2="66.675" width="0.0254" layer="20"/>
 <wire x1="0" y1="64.135" x2="2.54" y2="66.675" width="0.0254" layer="20" curve="-90"/>
 <wire x1="2.54" y1="0" x2="0" y2="2.54" width="0.0254" layer="20" curve="-90"/>
