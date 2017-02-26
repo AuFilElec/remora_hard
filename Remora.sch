@@ -10630,7 +10630,7 @@ Standard 8-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="OPTO" library="SparkFun-Passives" deviceset="JUMPER-PAD-3-2OF3_NC_BY_TRACE" device="_LARGE" value=""/>
 <part name="X1" library="con-ptr500" deviceset="AK500/3" device=""/>
 <part name="JP1" library="SparkFun-Connectors" deviceset="M02" device="PTH"/>
-<part name="PH" library="con-ptr500" deviceset="AK500/3" device="" value="Ph"/>
+<part name="PH" library="con-ptr500" deviceset="AK500/3" device=""/>
 <part name="RELAIS" library="sip-4" deviceset="G3MC-202P" device="" value="G3MC-202P-5V"/>
 <part name="JP2" library="SparkFun" deviceset="M08" device="1X08" value="JP2"/>
 <part name="JP5" library="SparkFun" deviceset="M08" device="1X08" value="JP5"/>
