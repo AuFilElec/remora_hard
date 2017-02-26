@@ -531,8 +531,8 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <pad name="1" x="-5.0038" y="0" drill="1.3208" shape="long" rot="R90"/>
 <pad name="2" x="0" y="0" drill="1.3208" shape="long" rot="R90"/>
 <pad name="3" x="5.0038" y="0" drill="1.3208" shape="long" rot="R90"/>
-<text x="-7.5946" y="4.445" size="1.778" layer="25" ratio="10">&gt;NAME</text>
-<text x="-7.5946" y="-5.715" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-7.5946" y="4.445" size="1.778" layer="25" font="vector" ratio="18">&gt;NAME</text>
+<text x="-7.5946" y="-5.715" size="1.778" layer="27" font="vector" ratio="18">&gt;VALUE</text>
 <text x="-6.731" y="2.54" size="0.9906" layer="21" ratio="12">1</text>
 <text x="-1.905" y="2.54" size="0.9906" layer="21" ratio="12">2</text>
 <text x="3.175" y="2.54" size="0.9906" layer="21" ratio="12">3</text>
@@ -10884,9 +10884,7 @@ Standard 8-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <instance part="X1" gate="-2" x="-152.4" y="50.8"/>
 <instance part="X1" gate="-3" x="-152.4" y="45.72"/>
 <instance part="JP1" gate="G$1" x="-156.21" y="67.31"/>
-<instance part="PH" gate="-1" x="48.26" y="-86.36" smashed="yes" rot="R180">
-<attribute name="NAME" x="49.53" y="-87.249" size="1.778" layer="95"/>
-</instance>
+<instance part="PH" gate="-1" x="48.26" y="-86.36" rot="R180"/>
 <instance part="PH" gate="-2" x="48.26" y="-58.42" smashed="yes" rot="R180"/>
 <instance part="PH" gate="-3" x="48.26" y="-63.5" smashed="yes" rot="R180">
 <attribute name="VALUE" x="52.07" y="-59.817" size="1.778" layer="96" rot="R180"/>
