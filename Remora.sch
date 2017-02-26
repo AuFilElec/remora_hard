@@ -994,8 +994,8 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <pad name="1" x="-5.0038" y="0" drill="1.3208" shape="long" rot="R90"/>
 <pad name="2" x="0" y="0" drill="1.3208" shape="long" rot="R90"/>
 <pad name="3" x="5.0038" y="0" drill="1.3208" shape="long" rot="R90"/>
-<text x="-7.5946" y="4.445" size="1.778" layer="25" ratio="10">&gt;NAME</text>
-<text x="-7.5946" y="-5.715" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-7.5946" y="4.445" size="1.778" layer="25" font="vector" ratio="18">&gt;NAME</text>
+<text x="-7.5946" y="-5.715" size="1.778" layer="27" font="vector" ratio="18">&gt;VALUE</text>
 <text x="-6.731" y="2.54" size="0.9906" layer="21" ratio="12">1</text>
 <text x="-1.905" y="2.54" size="0.9906" layer="21" ratio="12">2</text>
 <text x="3.175" y="2.54" size="0.9906" layer="21" ratio="12">3</text>
@@ -9474,14 +9474,14 @@ http://www.vishay.com/docs/88751/88751.pdf</description>
 <wire x1="0" y1="22.86" x2="101.6" y2="22.86" width="0.1016" layer="94"/>
 <wire x1="0" y1="22.86" x2="0" y2="35.56" width="0.1016" layer="94"/>
 <wire x1="101.6" y1="22.86" x2="101.6" y2="15.24" width="0.1016" layer="94"/>
-<text x="1.27" y="1.27" size="2.54" layer="94" font="vector">Date:</text>
-<text x="12.7" y="1.27" size="2.54" layer="94" font="vector">&gt;LAST_DATE_TIME</text>
-<text x="72.39" y="1.27" size="2.54" layer="94" font="vector">Sheet:</text>
-<text x="86.36" y="1.27" size="2.54" layer="94" font="vector">&gt;SHEET</text>
-<text x="88.9" y="11.43" size="2.54" layer="94" font="vector">REV:</text>
-<text x="1.27" y="19.05" size="2.54" layer="94" font="vector">TITLE:</text>
-<text x="1.27" y="11.43" size="2.54" layer="94" font="vector">Document Number:</text>
-<text x="17.78" y="19.05" size="2.54" layer="94" font="vector">&gt;DRAWING_NAME</text>
+<text x="1.27" y="1.27" size="2.54" layer="94">Date:</text>
+<text x="12.7" y="1.27" size="2.54" layer="94">&gt;LAST_DATE_TIME</text>
+<text x="72.39" y="1.27" size="2.54" layer="94">Sheet:</text>
+<text x="86.36" y="1.27" size="2.54" layer="94">&gt;SHEET</text>
+<text x="88.9" y="11.43" size="2.54" layer="94">REV:</text>
+<text x="1.27" y="19.05" size="2.54" layer="94">TITLE:</text>
+<text x="1.27" y="11.43" size="2.54" layer="94">Document Number:</text>
+<text x="17.78" y="19.05" size="2.54" layer="94">&gt;DRAWING_NAME</text>
 </symbol>
 <symbol name="DINA3_P">
 <frame x1="0" y1="0" x2="264.16" y2="388.62" columns="4" rows="4" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
